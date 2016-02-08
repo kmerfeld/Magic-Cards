@@ -1,2 +1,2 @@
 # Magic-Cards
-My magic cards
+My collection of magic cards, and my decks.
