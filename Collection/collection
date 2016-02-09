@@ -18,6 +18,7 @@
 2 Alabaster Kirin
 1 Alabaster Mage
 1 Alchemist's Apprentice
+1 Alchemist's Vial
 1 Alexi's Cloak
 1 Algae Gharial
 1 Alpine Grizzly
@@ -28,8 +29,10 @@
 2 Amphin Cutthroat
 1 Amrou Kithkin
 1 Anaba Shaman
+1 Anchor to the Æther
 1 Angel's Feather
 1 Angel's Tomb
+1 Animist's Awakening
 1 Annul
 1 Anodet Lurker
 1 Anvilwrought Raptor
@@ -98,6 +101,7 @@
 1 Blossoming Sands
 1 Bog Rats
 1 Bog Tatters
+1 Boiling Earth
 2 Bolt of Keranos
 1 Bond Beetle
 1 Bonds of Quicksilver
@@ -165,6 +169,7 @@
 3 Cloudfin Raptor
 2 Cloudshift
 4 Cloudstone Curio
+1 Clutch of Currents
 1 Coastal Drake
 1 Coastline Chimera
 4 Cobbled Wings
@@ -178,13 +183,14 @@
 1 Copper Carapace
 3 Copper Myr
 1 Copperhorn Scout
-1 Coralhelm Commander
+2 Coralhelm Commander
 2 Corpse Blockade
 1 Corrupt
 1 Corrupted Conscience
 1 Corrupted Resolve
 1 Corrupted Zendikon
 4 Counterspell
+1 Courier Griffin
 1 Courier Hawk
 1 Courtly Provocateur
 1 Crackling Triton
@@ -325,6 +331,7 @@
 1 Evasive Action
 3 Excommunicate
 2 Executioner's Hood
+1 Exert Influence
 1 Explosive Growth
 1 Explosive Impact
 2 Explosive Vegetation
@@ -471,6 +478,7 @@
 2 Gryff Vanguard
 2 Gust-Skimmer
 2 Guttersnipe
+1 Hagra Sharpshooter
 4 Halimar Wavewatch
 1 Hamlet Captain
 2 Hammer of Bogardan
@@ -567,10 +575,12 @@
 4 Kobolds of Kher Keep
 2 Kodama's Reach
 1 Kor Chant
+1 Kozilek's Channeler
 2 Kragma Butcher
 1 Kraken's Eye
 2 Kraul Warrior
 1 Krenko's Command
+1 Krenko, Mob Boss
 2 Krosan Tusker
 1 Kuldotha Forgemaster
 1 Laboratory Maniac
@@ -596,6 +606,7 @@
 1 Lightning Volley
 2 Liliana's Shade
 1 Lingering Souls
+1 Lithomancer's Focus
 1 Living Armor
 1 Lizard Warrior
 1 Llanowar Cavalry
@@ -665,6 +676,7 @@
 2 Mindstatic
 2 Mindstorm Crown
 4 Minotaur Skullcleaver
+1 Mire's Malice
 1 Mist Raven
 1 Mistfire Weaver
 5 Mistform Dreamer
@@ -684,7 +696,7 @@
 1 Moonmist
 1 Moonsilver Spear
 1 Morgue Burst
-74 Mountain
+75 Mountain
 1 Muddle the Mixture
 2 Mulch
 1 Murder of Crows
@@ -830,6 +842,7 @@
 3 Reckless One
 3 Reckless Reveler
 1 Reckless Spite
+1 Reclusive Artificer
 1 Recover
 4 Reef Shaman
 2 Reinforced Bulwark
@@ -841,6 +854,7 @@
 1 Rescue
 1 Rescue from the Underworld
 2 Rethink
+1 Retreat to Valakut
 3 Returned Centaur
 1 Revelsong Horn
 1 Revive
@@ -1000,6 +1014,7 @@
 2 Spell Crumple
 4 Sphinx Ambassador
 5 Sphinx's Disciple
+1 Sphinx's Tutelage
 2 Spidery Grasp
 1 Spin Engine
 1 Spined Thopter
@@ -1062,6 +1077,7 @@
 1 Syncopate
 1 Syndicate Enforcer
 2 Syphon Soul
+1 Tajuru Stalwart
 2 Talrand's Invocation
 1 Talrand, Sky Summoner
 1 Tamiyo, the Moon Sage
@@ -1128,6 +1144,7 @@
 1 Uncovered Clues
 1 Undead Executioner
 1 Unholy Fiend
+1 Unholy Hunger
 1 Unravel the Æther
 3 Unstable Mutation
 7 Unsummon
@@ -1135,6 +1152,7 @@
 3 Ur-Golem's Eye
 1 Urban Burgeoning
 2 Urgent Exorcism
+1 Valakut Predator
 1 Vampire Bats
 1 Vanguard of Brimaz
 1 Vastwood Gorger
@@ -1143,6 +1161,7 @@
 3 Vedalken Entrancer
 1 Vedalken Shackles
 2 Verdant Haven
+1 Vestige of Emrakul
 2 Veteran Explorer
 3 Vile Rebirth
 1 Village Survivors
